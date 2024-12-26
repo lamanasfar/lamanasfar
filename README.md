@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQH1ThYh0w2tcA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727792982583?e=1733356800&v=beta&t=4SCHLlgZmnWgP7gYcQoO1t4fGoQGCzx99BHJ3N_Vilo)
+ 
   <h1 align="center">Hi 👋, I'm Laman Asfarova</h1>
 <h3 align="center">.NET Developer||C#</h3>
 
