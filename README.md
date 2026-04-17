@@ -1,12 +1,8 @@
 <div align="center">
 
-<h1 align="center">Laman Asfarova</h1>
-
-<p align="center">
-  Java Backend Developer
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f8fafc,100:e2e8f0&height=180&section=header&text=Laman%20Asfarova&fontSize=42&fontColor=0f172a&fontAlignY=45&desc=Java%20Backend%20Developer&descAlignY=65&descSize=18&descColor=475569"/>
+</div>
+
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-lamanasfarova%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lamanasfarova@gmail.com)
@@ -22,15 +18,17 @@
 
 ```java
 public class Laman {
- private final String role = "Junior Java Backend Developer";
- private final String location = "Baku, Azerbaijan";
- private final String[] currentFocus = {
-   "Microservices knowledge",
-   "Building real-world APIs"
-   };
-   private final boolean openToWork = true;
 
-   public String getMotivation() {
+    private final String role     = "Junior Java Backend Developer";
+    private final String location = "Baku, Azerbaijan";
+    private final String[] currentFocus = {
+        "Deepening Microservices knowledge",
+        "Spring Security internals",
+        "Building real-world APIs"
+    };
+    private final boolean openToWork = true;
+
+    public String getMotivation() {
         return "Clean code, clear purpose — building one endpoint at a time.";
     }
 }
@@ -82,10 +80,10 @@ public class Laman {
 
 ```
 📦 MovieTicketReservationApi
-┣ 🎮 Controller Layer   — REST endpoints & request handling
-┣ ⚙️  Service Layer      — Business logic & DTO mapping
-┣ 🗄️  Repository Layer   — Spring Data JPA & entity management
-┗ ⏰  Scheduler          — Automated reservation expiry management
+ ┣ 🎮 Controller Layer   — REST endpoints & request handling
+ ┣ ⚙️  Service Layer      — Business logic & DTO mapping
+ ┣ 🗄️  Repository Layer   — Spring Data JPA & entity management
+ ┗ ⏰  Scheduler          — Automated reservation expiry management
 ```
 
 > **What it does:** A production-style RESTful API for browsing movies, booking seats, and managing reservations — with automatic expiry for unpaid bookings.
@@ -127,7 +125,52 @@ public class Laman {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=120&section=footer&animation=fadeIn"/>
+<img src="https://github-profile-trophy.vercel.app/?username=lamanasfar&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
+
+</div>
+
+---
+
+## 💼 Experience
+
+```
+🗓️ Nov 2025 – Present
+   IT Technician @ Azpos MMC
+   ↳ Remote support via AnyDesk · Network & IP configuration
+   ↳ POS systems, printers, barcode readers · MS SQL Server
+
+🗓️ Dec 2024 – May 2025
+   Junior C# Backend Developer (Intern) @ Timesoft
+   ↳ RESTful APIs with ASP.NET Core & Entity Framework
+   ↳ MS SQL Server schema design · Agile/Scrum team
+```
+
+---
+
+## 🎓 Education
+
+```
+🎓 B.Sc. Information Technology
+   Azerbaijan State Oil and Industry University
+   2021 – 2025  |  GPA: 82.95 / 100
+
+📚 "Digital Youth" Java Scholarship Program
+   IdTech Academy · Ministry of Internal Affairs
+   2025 – Present
+```
+
+---
+
+## 🌐 Languages
+
+![Azerbaijani](https://img.shields.io/badge/Azerbaijani-Native-009688?style=for-the-badge)
+![English](https://img.shields.io/badge/English-B1%20Intermediate-1565C0?style=for-the-badge)
+
+---
+
+<div align="center">
+
+ 
 
 <img src="https://komarev.com/ghpvc/?username=lamanasfar&color=7C3AED&style=flat-square&label=Profile+Views"/>
 
