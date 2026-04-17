@@ -22,7 +22,7 @@ public class Laman {
     private final String role     = "Junior Java Backend Developer";
     private final String location = "Baku, Azerbaijan";
     private final String[] currentFocus = {
-        "Deepening Microservices knowledge",
+        "Microservices knowledge",
         "Spring Security internals",
         "Building real-world APIs"
     };
