@@ -129,51 +129,6 @@ public class Laman {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lamanasfar&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
-
-</div>
-
----
-
-## 💼 Experience
-
-```
-🗓️ Nov 2025 – Present
-   IT Technician @ Azpos MMC
-   ↳ Remote support via AnyDesk · Network & IP configuration
-   ↳ POS systems, printers, barcode readers · MS SQL Server
-
-🗓️ Dec 2024 – May 2025
-   Junior C# Backend Developer (Intern) @ Timesoft
-   ↳ RESTful APIs with ASP.NET Core & Entity Framework
-   ↳ MS SQL Server schema design · Agile/Scrum team
-```
-
----
-
-## 🎓 Education
-
-```
-🎓 B.Sc. Information Technology
-   Azerbaijan State Oil and Industry University
-   2021 – 2025  |  GPA: 82.95 / 100
-
-📚 "Digital Youth" Java Scholarship Program
-   IdTech Academy · Ministry of Internal Affairs
-   2025 – Present
-```
-
----
-
-## 🌐 Languages
-
-![Azerbaijani](https://img.shields.io/badge/Azerbaijani-Native-009688?style=for-the-badge)
-![English](https://img.shields.io/badge/English-B1%20Intermediate-1565C0?style=for-the-badge)
-
----
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=120&section=footer&animation=fadeIn"/>
 
 <img src="https://komarev.com/ghpvc/?username=lamanasfar&color=7C3AED&style=flat-square&label=Profile+Views"/>
