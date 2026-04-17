@@ -1,9 +1,7 @@
 <div align="center">
 
  
-  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=25&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Laman+Asfarova;Java+Backend+Developer;Spring+Boot+Enthusiast" />
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:f1f5f9&height=200&section=header&text=Laman%20Asfarova&fontSize=45&fontColor=1e293b&fontAlignY=40&desc=Backend%20Developer%20%7C%20Java&descAlignY=60&descSize=18&descColor=64748b"/>
 </div>
 
 <div align="center">
