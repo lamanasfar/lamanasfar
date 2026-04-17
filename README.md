@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?<p align="center">
+ 
   <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=25&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Laman+Asfarova;Java+Backend+Developer;Spring+Boot+Enthusiast" />
 </p>
 
