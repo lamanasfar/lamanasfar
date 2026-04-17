@@ -6,7 +6,7 @@
   Java Backend Developer
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:334155&height=200&section=header&text=Laman%20Asfarova&fontSize=45&fontColor=e2e8f0&fontAlignY=40&desc=Backend%20Developer%20%7C%20Java&descAlignY=60&descSize=18&descColor=38bdf8"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f8fafc,100:e2e8f0&height=180&section=header&text=Laman%20Asfarova&fontSize=42&fontColor=0f172a&fontAlignY=45&desc=Java%20Backend%20Developer&descAlignY=65&descSize=18&descColor=475569"/>
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-lamanasfarova%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lamanasfarova@gmail.com)
