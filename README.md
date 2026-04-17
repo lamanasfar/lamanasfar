@@ -6,13 +6,7 @@
   Java Backend Developer
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=7C3AED&center=true&vCenter=true&width=500&lines=Spring+Boot;REST+APIs;Clean+Code;Microservices" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lamanasfar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamanasfar&theme=tokyonight&hide_border=true" />
-</p>
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:020617&height=180&section=header&text=Laman%20Asfarova&fontSize=42&fontColor=38bdf8&fontAlignY=45&desc=Java%20Backend%20Developer&descAlignY=65&descSize=18&descColor=94a3b8"/>
 
 <div align="center">
 
