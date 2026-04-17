@@ -1,11 +1,17 @@
 <div align="center">
 
+<h1 align="center">Laman Asfarova</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:ffffff&height=180&section=header&text=Laman%20Asfarova&fontSize=40&fontColor=0f172a"/>
+  Java Backend Developer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2563EB&size=24&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot;REST+APIs" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=7C3AED&center=true&vCenter=true&width=500&lines=Spring+Boot;REST+APIs;Clean+Code;Microservices" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lamanasfar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamanasfar&theme=tokyonight&hide_border=true" />
 </p>
 
 <div align="center">
