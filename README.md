@@ -22,17 +22,15 @@
 
 ```java
 public class Laman {
+ private final String role = "Junior Java Backend Developer";
+ private final String location = "Baku, Azerbaijan";
+ private final String[] currentFocus = {
+   "Microservices knowledge",
+   "Building real-world APIs"
+   };
+   private final boolean openToWork = true;
 
-    private final String role     = "Junior Java Backend Developer";
-    private final String location = "Baku, Azerbaijan";
-    private final String[] currentFocus = {
-        "Deepening Microservices knowledge",
-        "Spring Security internals",
-        "Building real-world APIs"
-    };
-    private final boolean openToWork = true;
-
-    public String getMotivation() {
+   public String getMotivation() {
         return "Clean code, clear purpose — building one endpoint at a time.";
     }
 }
@@ -84,10 +82,10 @@ public class Laman {
 
 ```
 📦 MovieTicketReservationApi
- ┣ 🎮 Controller Layer   — REST endpoints & request handling
- ┣ ⚙️  Service Layer      — Business logic & DTO mapping
- ┣ 🗄️  Repository Layer   — Spring Data JPA & entity management
- ┗ ⏰  Scheduler          — Automated reservation expiry management
+┣ 🎮 Controller Layer   — REST endpoints & request handling
+┣ ⚙️  Service Layer      — Business logic & DTO mapping
+┣ 🗄️  Repository Layer   — Spring Data JPA & entity management
+┗ ⏰  Scheduler          — Automated reservation expiry management
 ```
 
 > **What it does:** A production-style RESTful API for browsing movies, booking seats, and managing reservations — with automatic expiry for unpaid bookings.
