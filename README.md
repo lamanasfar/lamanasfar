@@ -1,8 +1,12 @@
 <div align="center">
 
- 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:f1f5f9&height=200&section=header&text=Laman%20Asfarova&fontSize=45&fontColor=1e293b&fontAlignY=40&desc=Backend%20Developer%20%7C%20Java&descAlignY=60&descSize=18&descColor=64748b"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:ffffff&height=180&section=header&text=Laman%20Asfarova&fontSize=40&fontColor=0f172a"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=2563EB&size=24&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot;REST+APIs" />
+</p>
 
 <div align="center">
 
